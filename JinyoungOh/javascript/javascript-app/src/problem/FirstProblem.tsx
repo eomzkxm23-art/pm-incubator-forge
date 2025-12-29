@@ -13,7 +13,7 @@ export const FirstProblem = () => {
 
     return (
         <div>
-            <h3>javascript 첫번째 퀴즈 (if)</h3>
+            <h3>javascript 첫번째 퀴즈 </h3>
 
             <pre>{
                 `
