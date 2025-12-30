@@ -5,6 +5,7 @@ import { VariableAndDataTypes } from './data_type/VariableAndDataTypes'
 import { LogicalOperationExample } from './logical_operation/LogicalOperationExample'
 import { CalcuationExample } from './math_operation/CalculationExample'
 import { ControlFlowSwitch } from './control_flow/ControlFlowSwitch'
+import { ControlFlowFor } from './control_flow/ControlFlowFor' 
 
 function App() {
 
@@ -25,7 +26,8 @@ function App() {
         <ControlFlowIf/>
         <FirstProblem/>
         <ControlFlowSwitch/>
-        
+        <ControlFlowFor/>
+
       </div>
     </>
   )
