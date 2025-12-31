@@ -1,5 +1,6 @@
 import './App.css'
 import { ArraySliceExample } from './array/ArraySliceExample'
+import { ArraySpliceExample } from './array/ArraySpliceExample'
 import { ControlFlowFor } from './control_flow/ControlFlowFor'
 import { ControlFlowForSumExample } from './control_flow/ControlFlowForSumExample'
 import { ControlFlowSummation } from './control_flow/ControlFlowForSummation'
@@ -37,6 +38,7 @@ function App() {
         <MapReduceExample/>
         <MapFilterExample/>
         <ArraySliceExample/>
+        <ArraySpliceExample/>
       </div>
     </>
   )
